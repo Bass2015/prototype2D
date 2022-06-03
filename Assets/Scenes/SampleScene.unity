@@ -1408,7 +1408,7 @@ MonoBehaviour:
   scaleSpeed: 0.2
   speed: 2
   horizontalSpeed: 0.99
-  sumValue: 1.96
+  sumValue: 0.5
 --- !u!4 &1800015005
 Transform:
   m_ObjectHideFlags: 0
